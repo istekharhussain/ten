@@ -1,0 +1,18 @@
+setSize("purple bunny", 40);
+makeNewSpriteAnon("purple bunny", ({"x":75,"y":227}));
+setFontColor('#330033');
+setBackgroundImageAs("rainbow");
+setSize("brown bunny", 50);
+makeNewSpriteAnon("brown bunny", ({"x":33,"y":244}));
+setSize("bunny2_1", 50);
+makeNewSpriteAnon("bunny2_1", ({"x":351,"y":230}));
+setTitle(textJoin("We don't talk about Bruno", undefined));
+addLine(textJoin("Pepa: it was my wedding day ", textJoin("Felix: it was our wedding day ", undefined)));
+addLine(textJoin("we where getting ready and there wasn't a cloud in the sky", undefined));
+addLine(textJoin("no clouds  aloud in the sky", undefined));
+addLine(textJoin("Bruno walks in with a mischievous grin  ", textJoin("THUNDER", undefined)));
+addLine(textJoin("you telling the story or am I?", textJoin("  sorry mi Vida go on", undefined)));
+addLine(textJoin("Bruno says it looks like rain  ", textJoin("why did he tell us", undefined)));
+addLine(textJoin(" In doing so he floods my brain   ", textJoin("Abuela get the umbrellas!", undefined)));
+addLine(textJoin("married in a hurricane  ", textJoin("what a joyous day but anyway  ", textJoin("we don't talk about Bruno no no no", undefined))));
+addLine(textJoin("we don't talk about Bruno", undefined));
